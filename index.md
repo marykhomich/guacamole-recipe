@@ -1,5 +1,6 @@
-* Simple guacamole recipe
+# Simple guacamole recipe
 
-* list of ingredients
-* list of instructions
-* By Mary
+list of [ingredients](ingredients.md)  
+list of [instructions](instructions.md)
+
+By **Mary**, May 24th, 2017
