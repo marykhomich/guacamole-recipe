@@ -7,3 +7,4 @@ By **Mary**, May 24th, 2017
 Inspired by [this recipe](http://allrecipes.com/recipe/14231/guacamole/)  
 
 ![](guacamole.jpeg)
+[http://assets.simplyrecipes.com/wp-content/uploads/2014/05/guacamole-horiz-a-1600.jpg]
