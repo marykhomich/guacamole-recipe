@@ -1,4 +1,4 @@
-avocado
-lime
-salt
-onion
+* avocado
+* lime
+* salt
+* onion
